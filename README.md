@@ -1,5 +1,5 @@
 # Skin-cancer-segmentation
-Skin Cancer Segmentation
+![image](https://github.com/user-attachments/assets/d2042610-e877-4b32-a200-99238360e340)
 
 Overview
 
@@ -7,15 +7,14 @@ Skin cancer is a serious health concern, and early detection can make a huge dif
 
 Features
 
-Preprocessing of skin cancer images, including resizing, normalization, and augmentation
+*Preprocessing of skin cancer images, including resizing, normalization, and augmentation
 
-Implementation of a deep learning model for segmentation, using U-Net architecture
+*Implementation of a deep learning model for segmentation, using U-Net architecture
 
-Evaluation of model performance using standard metrics such as IoU and Dice coefficient
+*Evaluation of model performance using standard metrics such as IoU and Dice coefficient
 
-Visualization of segmentation results for qualitative analysis
+*Visualization of segmentation results for qualitative analysis
 
-Support for custom datasets with easy adaptability
 
 Installation
 
