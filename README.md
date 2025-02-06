@@ -38,12 +38,7 @@ jupyter notebook "skin cancer segmentation.ipynb"
 Run the cells sequentially to preprocess data, train the model, and evaluate results.
 
 Dataset
-
-Ensure your dataset is located in:
-
-Images: C:\Users\Sara\Desktop\dataset1\images
-
-Masks: C:\Users\Sara\Desktop\dataset1\masks
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
 Results
 
